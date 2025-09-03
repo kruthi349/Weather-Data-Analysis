@@ -1,7 +1,3 @@
-Got it ✅ You uploaded a **Power BI file** (`weather pattern.pbix`) and a **dataset** (`weather_classification_data.csv`).
-Here’s a clean, professional **README.md** draft you can use for your GitHub repo:
-
----
 
 # Weather Pattern Analysis
 
@@ -30,7 +26,7 @@ This repository contains a **Power BI dashboard** and supporting dataset for ana
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-pattern-analysis.git
+   git clone https://github.com/kruthi349/weather-pattern-analysis.git
    ```
 2. Open **`weather pattern.pbix`** in Power BI Desktop.
 3. Explore the dashboard and interact with the visuals.
